@@ -34,9 +34,8 @@
 	<img src="https://zavrel.net/me.jpg" alt="">
 	<h1>Jan Zera</h1>
 	<p>Hi, I am learning HTML </p>
-	<form action="https://formspree.io/your@email.com"
-		method="POST">
-		<input type="email" placeholder="your email" name="_replyto>
+	<form action="https://formspree.io/jan@zevrel.net" method="POST">
+		<input type="email" placeholder="Your email" name="_replyto>
 
 		<input type="submit" value="Send">
 	</form>
